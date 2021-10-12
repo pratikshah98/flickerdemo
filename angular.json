@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "flickertest"
+    }
+  },
+  "defaultProject": "flickertest",
+  "cli": {
+    "analytics": "b12788ba-b756-4740-a58b-2c5af8f874f3"
+  }
 }
